@@ -14,7 +14,9 @@ function App() {
       <main>
         <Dictionary />
         </main>
-        <footer>
+        <br />
+        <br />
+        <footer className="footer">
           Coded by <a href="https://github.com/biancafrancini">Bianca Francini</a>
           </footer>
       </div>
