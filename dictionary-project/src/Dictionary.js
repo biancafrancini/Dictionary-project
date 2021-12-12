@@ -24,9 +24,11 @@ export default function Dictionary(){
         setKeyWord(event.target.value);
     }
     return (<div className="Dictionary">
-            <form onSubmit={search}>
+            <form className="Dictionary-form" onSubmit={search}>
                 <input type="search" autoFocus={true} placeholder="Type a word.." onChange={handleKeyWordChange} />
             </form>
+            <br />
+ 
             <Results results={results} />
         </div>
     );
