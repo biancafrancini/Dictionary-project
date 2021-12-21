@@ -1,0 +1,7 @@
+.Results h1{
+    background-color: rgb(241, 248, 248);
+    border-radius:40%;
+    padding: 12px;
+    text-align: center;
+    text-transform: capitalize;
+}

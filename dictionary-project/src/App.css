@@ -1,3 +1,7 @@
+body{
+  background-color: rgb(212, 230, 247);
+}
+
 .Dictionary-logo{
   display: flex;
   margin: auto;
