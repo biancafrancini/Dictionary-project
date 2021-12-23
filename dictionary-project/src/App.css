@@ -1,7 +1,10 @@
 body{
   background-color: white;
 }
-
+.App{
+  max-width:950px;
+  margin: 0 auto;
+}
 .Dictionary-logo{
   display: flex;
   margin: auto;
